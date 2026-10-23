@@ -1,0 +1,13 @@
+#titulo-principal {
+  color: #1a202c;
+  text-align: center;
+}
+
+.boton-primario {
+  background-color: #319795;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
