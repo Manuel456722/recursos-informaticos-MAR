@@ -1,7 +1,7 @@
 # recursos-informaticos-MAR
 
 ## Objetivo
-Página web sencilla con el **horario del grupo DAM-1ºB** y una sección de **recursos informáticos** útiles (documentación, tutoriales y herramientas). El proyecto se ha creado como práctica para aprender a usar GitHub: repositorios, commits, ramas, pull requests, resolución de conflictos, issues, releases y GitHub Pages.
+Página web sencilla con el **horario del grupo DAM-1ºB**
 
 ## Estructura del proyecto
 ```
